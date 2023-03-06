@@ -33,7 +33,7 @@ public class ReverseStringWithoutSpecialChar {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String str= "abcd@# ghj^& jkl)";
+		String str= "abcd@# ghj^& jkldasd)kjandskjs&";
 		char[] ch = str.toCharArray();
 		
 		revString(ch);
